@@ -1,0 +1,22 @@
+things to calcualte 
+
+only need numbers and sums to calculate current and previous moving annual  
+(Injury event type = (acute emotional event = acute emotional events + priority one )
+Ergonomics = True 
+strip/trip = True 
+Injury event type = collision 
+Injury event type = assults)
+
+
+emotional truama =  True and False to calculate (no) lost time, then to see rate, annualized then MA 
+
+Look at OI in different locations and workforce 
+
+Then need to see the lost time and no lost time rate 5 year trend and if it is sig or not 
+
+
+
+How to do logic for periods? 
+
+create me a fiscal 445 calendar in python(write down the code) that i can later use a function to make calculations based on each of the 12 periods in the fiscal year , lets start with 2019, these are the rules, P1 starts from Jan 1st 2019 and ends in Feb 2nd , P2 starts in Feb 03 and ends in Mar 02, P3 starts in Mar 03 and ends in Apr 06 etc. use MM DD YYYY Format. first week is 5 days and week 53 is 3 days. it ends On dec 31st. write down  logic, do you understnad
+
